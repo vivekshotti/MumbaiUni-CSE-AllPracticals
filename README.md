@@ -16,3 +16,8 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 |          | Microprocessor             |  CSL404          |
 |          | Skill Based Lab - Python      | CSL405           | 
 
+| Semester | Subjects                    | Lab Code   | 
+| -------- | --------------------------- | ---------- |  
+| 5        | Software Engineering              | CSL501           | 
+<!-- |          | Skill Based Lab - JAVA      | CSL304           | 
+|          | Computer Graphics           | CSL303           |  -->
