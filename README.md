@@ -19,5 +19,5 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 | Semester | Subjects                    | Lab Code   | 
 | -------- | --------------------------- | ---------- |  
 | 5        | Software Engineering              | CSL501           | 
-<!-- |          | Skill Based Lab - JAVA      | CSL304           | 
-|          | Computer Graphics           | CSL303           |  -->
+|          | Computer Network      | CSL502           | 
+<!-- |          | Computer Graphics           | CSL303           |  -->
