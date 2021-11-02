@@ -20,4 +20,4 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 | -------- | --------------------------- | ---------- |  
 | 5        | Software Engineering              | CSL501           | 
 |          | Computer Network      | CSL502           | 
-<!-- |          | Computer Graphics           | CSL303           |  -->
+|          | Data Warehouse Management           | CSL303           | 
