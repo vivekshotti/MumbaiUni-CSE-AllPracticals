@@ -25,5 +25,6 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 | Semester | Subjects                    | Lab Code   | 
 | -------- | --------------------------- | ---------- |  
 | 6        | System Programming & Compiler Construction              | CSL601           | 
+|          | Cryptography & System Security              | CSL602           | 
 |          | Artificial Intelligence      | CSL604           | 
 |          | Cloud Computing           | CSL605           | 
