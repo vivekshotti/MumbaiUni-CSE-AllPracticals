@@ -21,3 +21,9 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 | 5        | Software Engineering              | CSL501           | 
 |          | Computer Network      | CSL502           | 
 |          | Data Warehouse Management           | CSL303           | 
+
+| Semester | Subjects                    | Lab Code   | 
+| -------- | --------------------------- | ---------- |  
+| 6        | System Programming & Compiler Construction              | CSL601           | 
+|          | Artificial Intelligence      | CSL604           | 
+|          | Cloud Computing           | CSL605           | 
