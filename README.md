@@ -28,3 +28,10 @@ According to the: (REV- 2019 ‘C’ Scheme) Syllabus from Academic Year 2019 �
 |          | Cryptography & System Security              | CSL602           | 
 |          | Artificial Intelligence      | CSL604           | 
 |          | Cloud Computing           | CSL605           | 
+
+| Semester | Subjects                    | Lab Code   | 
+| -------- | --------------------------- | ---------- |  
+| 7        | Big Data Analysis              | CSL702           | 
+|          | Natural Language Processing              | CSDL7013           | 
+|          | Machine Learning      | CSL701           | 
+|          | Information Retrieval           | CSDC7023           | 
